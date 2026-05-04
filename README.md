@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&center=true&vCenter=true&width=1000&height=100&lines=Hello+Welcome+To+My+Github+Profile;I+Am+A+Fullstack+And+Blockchain+Engineer.;I+Have+13+Years+Of+Experiences.)](https://git.io/typing-svg)
 
-**Full Stack || Blockchain & AI Engineer**
+**Full Stack || Shopify & AI Developer**
 
 ### 👋 Hello, there!
 
